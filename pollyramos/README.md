@@ -6,7 +6,7 @@ The Twitter plugin for WordPress requires PHP 5.6 or greater to take advantage o
 
 Current version: `2.0.5`
 
-[![Build Status](https://travis-ci.org/twitter/wordpress.svg)](https://travis-ci.org/twitter/wordpress)
+[![Build Status](https://travis-ci.org/twitter/wordpress.svg)](https://travis-ci.org/twitter/wordpress/apolinarramos11)
 
 ## Features
 
@@ -78,10 +78,10 @@ Bugs or feature development contributions should be created through the GitHub r
 <https://github.com/twitter/wordpress/issues>
 
 ## Authors
-* Niall Kennedy <https://twitter.com/niall>
+* polinar68 <https://twitter.com/apolinarramos11>
 
 ## Maintainers
-* Evan Sobkowicz <https://twitter.com/evansobkowicz>
+* polly ramos <https://twitter.com/apolinarramos11>
 
 A full list of [contributors](https://github.com/twitter/wordpress/graphs/contributors) can be found on GitHub.
 
